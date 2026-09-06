@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>顧問の耳</title>
+    <link>https://drive.google.com/drive/folders/1RqCUvo1gYCNiA0BAeNOcW_R6ko7n9_FK</link>
+    <atom:link href="https://tomo-bitgit.github.io/komon-no-mimi/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <description>経営コンサルの判断の型を、通勤12分で体に入れる65回</description>
+    <itunes:author>TOMO</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Business"/>
+    <item>
+      <title>第1回 質問を、上の問いに持ち上げる</title>
+      <itunes:title>第1回 質問を、上の問いに持ち上げる</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>第1週「問いを持ち上げる」。元にした本: 論点思考／コンサル一年目が学ぶこと。</description>
+      <pubDate>Mon, 07 Sep 2026 05:00:00 +0900</pubDate>
+      <guid isPermaLink="false">komon-no-mimi-ep01</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1M401MeMnw_mNzGOmpLiNUKmHxovo611X&export=download&confirm=t" length="4396032" type="audio/mpeg"/>
+      <itunes:duration>12:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第2回 結論から言い切る。断定の作法と、外した時の戻し方</title>
+      <itunes:title>第2回 結論から言い切る。断定の作法と、外した時の戻し方</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>第1週「問いを持ち上げる」。元にした本: 論点思考／コンサル一年目が学ぶこと。</description>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 +0900</pubDate>
+      <guid isPermaLink="false">komon-no-mimi-ep02</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1jdif9BzJ_H0xs409cN6cIPyf-kv8BDkO&export=download&confirm=t" length="4418208" type="audio/mpeg"/>
+      <itunes:duration>12:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第3回 今日の論点を3つに絞る</title>
+      <itunes:title>第3回 今日の論点を3つに絞る</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>第1週「問いを持ち上げる」。元にした本: 論点思考／コンサル一年目が学ぶこと。</description>
+      <pubDate>Wed, 09 Sep 2026 05:00:00 +0900</pubDate>
+      <guid isPermaLink="false">komon-no-mimi-ep03</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1ZdB4KzZCY5KzBkUqf_M0VExI_zRC5hwd&export=download&confirm=t" length="4278816" type="audio/mpeg"/>
+      <itunes:duration>11:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第4回 Jさん事例回：エステ10店舗・薬局・不動産塾を「持ち上げ」で読む</title>
+      <itunes:title>第4回 Jさん事例回：エステ10店舗・薬局・不動産塾を「持ち上げ」で読む</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>第1週「問いを持ち上げる」。元にした本: 論点思考／コンサル一年目が学ぶこと。</description>
+      <pubDate>Thu, 10 Sep 2026 05:00:00 +0900</pubDate>
+      <guid isPermaLink="false">komon-no-mimi-ep04</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=10wj0bwFgH26VMM6lnhYpg2kDayMbsHNF&export=download&confirm=t" length="4614336" type="audio/mpeg"/>
+      <itunes:duration>12:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第5回 復習と自己テスト：社長の質問5つを一段上げる</title>
+      <itunes:title>第5回 復習と自己テスト：社長の質問5つを一段上げる</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>第1週「問いを持ち上げる」。元にした本: 論点思考／コンサル一年目が学ぶこと。</description>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0900</pubDate>
+      <guid isPermaLink="false">komon-no-mimi-ep05</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1oAIDKp8ssELvqRfl1R9Fe4TUH3BpzjuC&export=download&confirm=t" length="4634208" type="audio/mpeg"/>
+      <itunes:duration>12:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
